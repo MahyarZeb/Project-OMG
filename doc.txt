@@ -1,1 +1,2 @@
 This is the first line of the doc and project
+The next changes made to the doc before which project cannot be run
